@@ -4,7 +4,7 @@ A new Flutter application.
 
 # demo
 
-![Screenshot](https://raw.githubusercontent.com/HKARLI/flutter_json_app/master/screenshots/main_page.png)
+![Screenshot](https://raw.githubusercontent.com/HKARLI/flutter_weather_app/master/screenshots/main_page.png)
 
 ## Getting Started
 
